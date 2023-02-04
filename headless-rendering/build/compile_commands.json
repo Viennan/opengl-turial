@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/wiennan/桌面/opengl-turial/headless-rendering/build",
+  "command": "/usr/bin/g++-11  -I/home/wiennan/桌面/opengl-turial/headless-rendering/glad/include -I/home/wiennan/桌面/opengl-turial/headless-rendering/stb_image/. -g -o CMakeFiles/egl-gles-nvidia.dir/egl-gles-nvidia-main.cpp.o -c /home/wiennan/桌面/opengl-turial/headless-rendering/egl-gles-nvidia-main.cpp",
+  "file": "/home/wiennan/桌面/opengl-turial/headless-rendering/egl-gles-nvidia-main.cpp"
+},
+{
+  "directory": "/home/wiennan/桌面/opengl-turial/headless-rendering/build",
+  "command": "/usr/bin/g++-11  -I/home/wiennan/桌面/opengl-turial/headless-rendering/glad/include -I/home/wiennan/桌面/opengl-turial/headless-rendering/stb_image/. -g -o CMakeFiles/egl-gles-nvidia.dir/render.cpp.o -c /home/wiennan/桌面/opengl-turial/headless-rendering/render.cpp",
+  "file": "/home/wiennan/桌面/opengl-turial/headless-rendering/render.cpp"
+},
+{
+  "directory": "/home/wiennan/桌面/opengl-turial/headless-rendering/build/glad",
+  "command": "/usr/bin/gcc-11  -I/home/wiennan/桌面/opengl-turial/headless-rendering/glad/include -g -o CMakeFiles/glad.dir/src/glad.c.o -c /home/wiennan/桌面/opengl-turial/headless-rendering/glad/src/glad.c",
+  "file": "/home/wiennan/桌面/opengl-turial/headless-rendering/glad/src/glad.c"
+},
+{
+  "directory": "/home/wiennan/桌面/opengl-turial/headless-rendering/build/glad",
+  "command": "/usr/bin/gcc-11  -I/home/wiennan/桌面/opengl-turial/headless-rendering/glad/include -g -o CMakeFiles/glad.dir/src/glad_egl.c.o -c /home/wiennan/桌面/opengl-turial/headless-rendering/glad/src/glad_egl.c",
+  "file": "/home/wiennan/桌面/opengl-turial/headless-rendering/glad/src/glad_egl.c"
+},
+{
+  "directory": "/home/wiennan/桌面/opengl-turial/headless-rendering/build/stb_image",
+  "command": "/usr/bin/g++-11  -I/home/wiennan/桌面/opengl-turial/headless-rendering/stb_image/. -g -o CMakeFiles/stbimage.dir/stb_image.cpp.o -c /home/wiennan/桌面/opengl-turial/headless-rendering/stb_image/stb_image.cpp",
+  "file": "/home/wiennan/桌面/opengl-turial/headless-rendering/stb_image/stb_image.cpp"
+}
+]

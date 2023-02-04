@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-add639db91e827a38bac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "glad",
+					"jsonFile" : "directory-glad-Debug-d2e737c675770f9138c8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "glad",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "stb_image",
+					"jsonFile" : "directory-stb_image-Debug-35fd8e063d9fb3a933f4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "stb_image",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "headless-rendering",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "egl-gles-nvidia::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-egl-gles-nvidia-Debug-2cdcdae0f53c5f5c6006.json",
+					"name" : "egl-gles-nvidia",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "glad::@74ca6b3581f0d7366b1f",
+					"jsonFile" : "target-glad-Debug-ec077ac25f0ac10c4897.json",
+					"name" : "glad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "stbimage::@70b07a00fce5600454d3",
+					"jsonFile" : "target-stbimage-Debug-a89cae67ce27e92ce178.json",
+					"name" : "stbimage",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wiennan/\u684c\u9762/opengl-turial/headless-rendering/build",
+		"source" : "/home/wiennan/\u684c\u9762/opengl-turial/headless-rendering"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

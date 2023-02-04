@@ -1,0 +1,6 @@
+/home/wiennan/桌面/opengl-turial/headless-rendering/install/./egl-gles-nvidia
+/home/wiennan/桌面/opengl-turial/headless-rendering/install/./resources/textures/awesomeface.png
+/home/wiennan/桌面/opengl-turial/headless-rendering/install/./resources/textures/awesomeface.jpg
+/home/wiennan/桌面/opengl-turial/headless-rendering/install/./resources/textures/container.jpg
+/home/wiennan/桌面/opengl-turial/headless-rendering/install/./vertex.vs
+/home/wiennan/桌面/opengl-turial/headless-rendering/install/./fragment.fs

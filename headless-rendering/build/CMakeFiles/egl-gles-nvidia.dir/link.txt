@@ -1,0 +1,1 @@
+/usr/bin/g++-11 -g "CMakeFiles/egl-gles-nvidia.dir/egl-gles-nvidia-main.cpp.o" "CMakeFiles/egl-gles-nvidia.dir/render.cpp.o" -o egl-gles-nvidia  glad/libglad.a stb_image/libstbimage.a /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libEGL.so -ldl /usr/lib/x86_64-linux-gnu/libOpenGL.so 
